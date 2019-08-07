@@ -1,3 +1,7 @@
+/*This problem was asked by Facebook.
+
+Given a binary tree, return all paths from the root to leaves.*/
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
